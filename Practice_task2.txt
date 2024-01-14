@@ -1,0 +1,5 @@
+Практическое 2 remote 
+Line 2 (local)
+Line 3 (local)
+Line 4 remote
+Line 5 remote IDEA
