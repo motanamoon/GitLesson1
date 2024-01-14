@@ -1,1 +1,2 @@
 Практическое 2 remote 
+Line 2 (local)
